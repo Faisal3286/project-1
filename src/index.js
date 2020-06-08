@@ -5,9 +5,9 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 ReactDOM.render(
    <div>
-     <App />
-     <App />
-     <App />
+     <App name='faisal nabeel' emial='faisalnabeel623@gmail.com' />
+     <App name='faisal nabeel' emial='faisalnabeel623@gmail.com'/>
+     <App name='faisal nabeel' emial='faisalnabeel623@gmail.com'/>
      <App />
    </div>
  ,document.getElementById('root')
